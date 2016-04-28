@@ -1,0 +1,62 @@
+    #xaxis .domain {
+        fill:none;
+        stroke:#000;
+    }
+    #xaxis text, #yaxis text {
+        font-size: 12px;
+    }
+    #wrapper{
+      width: 90%;
+      margin: auto;
+    }
+    #wrapper h2{
+      width: 90%;
+      margin: auto;
+    }
+#viewerData{
+  font-size:12px;
+}
+
+#content{
+  width:90%;
+  margin:auto;
+}
+
+#content h3{
+  color:red;
+}
+.collapsed {
+  max-height: 20px;
+  overflow: hidden;
+}
+
+.more-less-box{
+  float: left;
+  background: #ddd;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  max-width: 280px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+
+table{
+  border-collapse: collapse;
+  float:right;
+}
+
+table, th, td{
+  border: 1px solid black;
+  padding: 10px;
+}
+#content img {
+  width: 70%;
+  margin:auto;
+}
+p{
+  font-size: 20px;
+}
